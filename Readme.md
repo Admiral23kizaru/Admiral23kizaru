@@ -8,7 +8,7 @@
 - 💻 Specialized in **frontend & backend web development**.  
 - 📱 Enthusiastic about **mobile development** (React Native, Kotlin).  
 - 🌐 Experienced in **APIs, authentication, and database management**.  
-- 📊 Learning **DevOps, CI/CD, and cloud services** to scale projects.  
+- ☁️ Currently learning **DevOps & Cloud (AWS, Docker, CI/CD)**.  
 - 🎯 Strong believer in **clean code, collaboration, and continuous learning**.  
 
 ---
@@ -32,17 +32,21 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50"/>
 
   <!-- Database -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
 
-  <!-- APIs & Tools -->
-  <img src="https://img.icons8.com/ios-filled/50/api-settings.png" alt="API" width="50" height="50"/>
+  <!-- Cloud & APIs -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-api-coding-and-development-justicon-lineal-color-justicon.png" alt="API" width="50" height="50"/>
+
+  <!-- Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
 </p>  
 
 ---
