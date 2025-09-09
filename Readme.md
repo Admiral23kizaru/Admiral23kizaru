@@ -1,102 +1,106 @@
 # Hi, I’m Aaron 👋  
-**Full-Stack Web & Mobile App Developer**  
-*Passionate about building scalable web and mobile apps using modern technologies. Exploring APIs, cloud platforms, and frameworks to create efficient solutions.* 🚀  
+**Web & Mobile App Developer**  
+*Building scalable web & mobile apps with modern tech* 🚀  
 
 ---
 
 ## 👨‍💻 About Me  
 - 💻 Passionate about building modern, responsive, and user-friendly applications.  
-- 📱 Love working on **mobile development** (React Native, Kotlin).  
+- 📱 Specialized in **mobile development** (React Native, Kotlin, Java).  
 - 🌐 Skilled in **web development** with frontend and backend technologies.  
-- 📊 Interested in **system design, analytics, and automation**.  
-- 🎯 Currently improving my skills in **DevOps & cloud technologies**.  
-- 🌍 Based in the **Philippines**.  
+- ☁️ Exploring **DevOps & Cloud Technologies (AWS, Docker, CI/CD)**.  
+- 🎯 Love solving real-world problems through code.  
 
 ---
 
-## 🛠️ Languages & Tools  
+## ⌨️ Typing Animation  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F700&lines=Web+Developer;Mobile+App+Developer;Open-Source+Contributor;Always+Learning+New+Tech)](https://git.io/typing-svg)  
+
+---
+
+## 🚀 Languages, Frameworks & Tools  
 
 ### 🌐 Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-</p>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
+
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/-React_Native-20232A?logo=react&logoColor=61DAFB)  
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
 
 ### ⚙️ Backend & APIs
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/API-0096D6?style=for-the-badge&logo=swagger&logoColor=white"/>
-</p>
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)  
 
 ### ☁️ Cloud & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)  
 
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Admiral23kizaru&show_icons=true&theme=radical" alt="Aaron's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Admiral23kizaru&layout=compact&theme=radical" height="165"/>
-</p>
+![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Admiral23kizaru&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Admiral23kizaru&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Admiral23kizaru&theme=radical)  
 
 ---
 
 ## 🏆 Achievements & Badges  
-<p align="center">
-  <img src="https://img.shields.io/badge/Followers-100+-blue?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Stars-200+-yellow?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Commits-500+-brightgreen?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/Repositories-30+-orange?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-red?style=for-the-badge&logo=opensourceinitiative"/>
-  <img src="https://img.shields.io/badge/Lifetime%20Code%20Lines-1M+-lightgrey?style=for-the-badge&logo=codeforces"/>
-</p>
+![GitHub followers](https://img.shields.io/github/followers/Admiral23kizaru?label=Followers&style=social)  
+![GitHub stars](https://img.shields.io/github/stars/Admiral23kizaru?label=Stars&style=social)  
+![Profile views](https://komarev.com/ghpvc/?username=Admiral23kizaru&label=Profile%20views&color=0e75b6&style=flat)  
+![Repos Badge](https://badges.pufler.dev/repos/Admiral23kizaru)  
+![Commits Badge](https://badges.pufler.dev/commits/monthly/Admiral23kizaru)  
 
 ---
 
-## 🚀 Featured Projects  
-
-- **📱 FoundIt – Lost & Found Tracker**  
-  Mobile app built with React Native + SQLite, helping users report and recover lost items.  
-
-- **📊 Inventory Management System**  
-  A PHP & MySQL system with reports, low-stock alerts, and user authentication.  
-
-- **🎓 Student Management System**  
-  Web platform for managing student registrations, violations, and reports.  
-
-- **🤝 HelpTap – Task Assistance Platform**  
-  A hyperlocal help exchange app where people can request and provide assistance.  
+## 🌟 Featured Projects  
+- **Platform3** — A school management platform built with PHP, MySQL, and Bootstrap.  
+- **FoundIt – Lost & Found Tracker** — A React Native app to report and track lost & found items with offline support.  
+- **HelpTap – Task Assistance Platform** — A hyperlocal help exchange app where people can request and provide assistance.  
+- **Inventory Management System** — A PHP + MySQL based system with analytics, reports, and low stock alerts.  
 
 ---
 
-## 🐍 Contribution Graph  
-![Snake animation](https://github.com/Admiral23kizaru/Admiral23kizaru/blob/output/github-contribution-grid-snake.svg)
+## 📈 Contribution Graph  
+![Aaron's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Admiral23kizaru&theme=react-dark&hide_border=true)  
 
-### 🐍 My Contributions Snake
+---
+
+## 🐍 My Contributions Snake  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Admiral23kizaru/Admiral23kizaru/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Admiral23kizaru/Admiral23kizaru/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Admiral23kizaru/Admiral23kizaru/output/github-contribution-grid-snake.svg" />
-</picture>
+</picture>  
 
+---
+
+## 🌆 GitHub Skyline  
+[Check out my 3D contribution skyline](https://skyline.github.com/Admiral23kizaru/2025)  
 
 ---
 
-## 💡 Fun Quote  
-✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
+## 📫 Connect with Me  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)  
 
 ---
+
+✨ “Code is like humor. When you have to explain it, it’s bad.”  
+
