@@ -96,8 +96,13 @@
 
 ---
 
+---
+
 ## 🌆 GitHub Skyline  
-[Check out my 3D contribution skyline](https://skyline.github.com/Admiral23kizaru/2025)  
+
+[![GitHub Skyline](https://img.shields.io/badge/View%20My%20Skyline-3D%20Contributions-blue?style=for-the-badge&logo=github)](https://skyline.github.com/Admiral23kizaru)
+
+---
 
 ---
 
