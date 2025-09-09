@@ -86,6 +86,14 @@
 ## 🐍 Contribution Graph  
 ![Snake animation](https://github.com/Admiral23kizaru/Admiral23kizaru/blob/output/github-contribution-grid-snake.svg)
 
+### 🐍 My Contributions Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Admiral23kizaru/Admiral23kizaru/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Admiral23kizaru/Admiral23kizaru/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Admiral23kizaru/Admiral23kizaru/output/github-contribution-grid-snake.svg" />
+</picture>
+
+
 ---
 
 ## 💡 Fun Quote  
