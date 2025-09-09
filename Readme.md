@@ -4,6 +4,16 @@
 
 ---
 
+## 👨‍💻 About Me  
+- 💻 Passionate about building modern, responsive, and user-friendly applications.  
+- 📱 Love working on **mobile development** (React Native, Kotlin).  
+- 🌐 Skilled in **web development** with frontend and backend technologies.  
+- 📊 Interested in **system design, analytics, and automation**.  
+- 🎯 Currently improving my skills in **DevOps & cloud technologies**.  
+- 🌍 Based in the **Philippines**.  
+
+---
+
 ## 🛠️ Languages & Tools  
 
 ### 🌐 Frontend
@@ -22,6 +32,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/API-0096D6?style=for-the-badge&logo=swagger&logoColor=white"/>
 </p>
 
@@ -45,19 +56,13 @@
 ---
 
 ## 🏆 Achievements & Badges  
-
-### 🎖️ GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Admiral23kizaru&theme=radical&no-frame=true&margin-w=10&row=1" alt="GitHub trophies" />
-</p>
-
-### 🥇 Badges
 <p align="center">
   <img src="https://img.shields.io/badge/Followers-100+-blue?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/Stars-200+-yellow?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/Commits-500+-brightgreen?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/Repositories-30+-orange?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-red?style=for-the-badge&logo=opensourceinitiative"/>
+  <img src="https://img.shields.io/badge/Lifetime%20Code%20Lines-1M+-lightgrey?style=for-the-badge&logo=codeforces"/>
 </p>
 
 ---
@@ -73,9 +78,17 @@
 - **🎓 Student Management System**  
   Web platform for managing student registrations, violations, and reports.  
 
+- **🤝 HelpTap – Task Assistance Platform**  
+  A hyperlocal help exchange app where people can request and provide assistance.  
+
+---
+
+## 🐍 Contribution Graph  
+![Snake animation](https://github.com/Admiral23kizaru/Admiral23kizaru/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 💡 Fun Quote  
 ✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
 
---
+---
