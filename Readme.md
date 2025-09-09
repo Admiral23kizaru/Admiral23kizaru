@@ -1,6 +1,6 @@
 # Hi, I’m Aaron 👋  
 **Web & Mobile App Developer**  
-*Passionate about creating modern, scalable, and high-performing applications for both web and mobile. I focus on building intuitive user experiences, reliable backend systems, and seamless integrations. My goal is to deliver apps that make life easier, smarter, and more connected.* 🚀  
+*Building scalable, modern, and high-performing applications for the web and mobile world.* 🚀  
 
 ---
 
@@ -9,7 +9,7 @@
 - 📱 Enthusiastic about **mobile development** (React Native, Kotlin).  
 - 🌐 Experienced in **APIs, authentication, and database management**.  
 - ☁️ Currently learning **DevOps & Cloud (AWS, Docker, CI/CD)**.  
-- 🎯 Strong believer in **clean code, collaboration, and continuous learning**.  
+- 🎯 Believer in **clean code, collaboration, and continuous learning**.  
 
 ---
 
@@ -32,7 +32,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=api&logoColor=white)  
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white)  
 
 ### 🗄️ Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
@@ -49,9 +49,14 @@
 
 ## 📊 GitHub Stats  
 
-![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Admiral23kizaru&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Admiral23kizaru&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Admiral23kizaru&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Admiral23kizaru&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Admiral23kizaru&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Admiral23kizaru&theme=radical" alt="GitHub Streak" height="160"/>
+</p>
 
 ---
 
