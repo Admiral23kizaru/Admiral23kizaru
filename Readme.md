@@ -58,12 +58,19 @@
 
 ---
 
+---
+
 ## 🏆 Achievements & Badges  
-![GitHub followers](https://img.shields.io/github/followers/Admiral23kizaru?label=Followers&style=social)  
-![GitHub stars](https://img.shields.io/github/stars/Admiral23kizaru?label=Stars&style=social)  
-![Profile views](https://komarev.com/ghpvc/?username=Admiral23kizaru&label=Profile%20views&color=0e75b6&style=flat)  
-![Repos Badge](https://badges.pufler.dev/repos/Admiral23kizaru)  
-![Commits Badge](https://badges.pufler.dev/commits/monthly/Admiral23kizaru)  
+
+![GitHub followers](https://img.shields.io/github/followers/Admiral23kizaru?style=for-the-badge&logo=github&color=0e75b6)  
+![GitHub stars](https://img.shields.io/github/stars/Admiral23kizaru?style=for-the-badge&logo=github&color=yellow)  
+![Profile views](https://komarev.com/ghpvc/?username=Admiral23kizaru&style=for-the-badge&color=brightgreen)  
+![Repos Badge](https://img.shields.io/badge/Public%20Repos-20-blue?style=for-the-badge&logo=github)  
+![Years Active](https://img.shields.io/badge/Years%20Active-3-orange?style=for-the-badge&logo=github)  
+![Contributions](https://img.shields.io/badge/Contributions-1000%2B-success?style=for-the-badge&logo=github)  
+![Open Source](https://img.shields.io/badge/Open%20Source%20Lover-%E2%9D%A4-red?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+
+---
 
 ---
 
