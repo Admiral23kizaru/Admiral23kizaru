@@ -98,8 +98,14 @@
 
 ---
 
-[![Contributions Badge](https://img.shields.io/badge/My%20Contributions-View%20Graph-blue?style=for-the-badge&logo=github)](https://github.com/Admiral23kizaru?tab=overview&from=2025-01-01&to=2025-12-31)
+---
 
+## 📈 My GitHub Journey  
+
+[![Commits Badge](https://img.shields.io/badge/Commits-4,500%2B-brightgreen?style=for-the-badge&logo=github)](https://github.com/Admiral23kizaru)
+[![Projects Badge](https://img.shields.io/badge/Projects-10%2B-blue?style=for-the-badge&logo=github)](https://github.com/Admiral23kizaru?tab=repositories)
+[![Years Active](https://img.shields.io/badge/Years%20on%20GitHub-3-orange?style=for-the-badge&logo=github)](https://github.com/Admiral23kizaru)
+[![Followers](https://img.shields.io/github/followers/Admiral23kizaru?style=for-the-badge&logo=github&color=0e75b6)](https://github.com/Admiral23kizaru?tab=followers)
 
 ---
 
