@@ -98,7 +98,8 @@
 
 ---
 
-[![GitHub Skyline](https://img.shields.io/badge/View%20My%20Skyline-3D%20Contributions-blue?style=for-the-badge&logo=github)](https://skyline.github.com/Admiral23kizaru/2025)
+[![Contributions Badge](https://img.shields.io/badge/My%20Contributions-View%20Graph-blue?style=for-the-badge&logo=github)](https://github.com/Admiral23kizaru?tab=overview&from=2025-01-01&to=2025-12-31)
+
 
 ---
 
