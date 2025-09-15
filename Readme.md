@@ -135,15 +135,19 @@
 
 ---
 
-## ✍️ Pinned Dev Blog / Articles  
-*(Future section — auto-fetch Medium / Hashnode / Dev.to posts)*  
+---
+
+## ✍️ Latest Blog Posts  
+<!-- BLOG-POST-LIST:START -->
+- [How I Built a Lost & Found Tracker with React Native](https://dev.to/yourusername/lost-found-tracker)
+- [5 Mistakes to Avoid as a Beginner Developer](https://medium.com/@yourusername/beginner-mistakes)
+- [CI/CD for Mobile Apps – A Complete Guide](https://hashnode.com/@yourusername/cicd-guide)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
-## 🗼 GitHub Skyline  
-Check out your 3D contribution city: [GitHub Skyline](https://skyline.github.com/Admiral23kizaru)  
-
----
+## 💡 Dev Quote of the Day  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 💡 Stack Overflow / LeetCode Stats  
 *(Placeholders — can add dynamic badges once accounts are linked)*  
