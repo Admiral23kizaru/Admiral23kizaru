@@ -6,15 +6,16 @@
 
 ## 👨‍💻 About Me  
 - 💻 Passionate about building modern, responsive, and user-friendly applications.  
-- 📱 Specialized in **mobile development** (React Native, Kotlin, Java).  
+- 📱 Specialized in **mobile development** (React Native, Kotlin, Java, Tailwind).  
 - 🌐 Skilled in **web development** with frontend and backend technologies.  
 - ☁️ Exploring **DevOps & Cloud Technologies (AWS, Docker, CI/CD)**.  
+- 🤖 Learning and building with **Machine Learning & AI** (Python, TensorFlow, Scikit-learn).  
 - 🎯 Love solving real-world problems through code.  
 
 ---
 
 ## ⌨️ Typing Animation  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F700&lines=Web+Developer;Mobile+App+Developer;Open-Source+Contributor;Always+Learning+New+Tech)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F700&lines=Web+Developer;Mobile+App+Developer;Open-Source+Contributor;Machine+Learning+Enthusiast;Always+Learning+New+Tech)](https://git.io/typing-svg)  
 
 ---
 
@@ -27,6 +28,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
@@ -34,9 +36,17 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=api&logoColor=white)
+
+### 🤖 Machine Learning & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### ☁️ Cloud & Tools
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -47,6 +57,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+---
 ---
 
 ---
