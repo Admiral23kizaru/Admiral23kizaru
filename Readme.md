@@ -58,16 +58,11 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
----
-
----
 
 ## 📊 GitHub Stats  
 ![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Admiral23kizaru&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Admiral23kizaru&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Admiral23kizaru&theme=radical)  
-
----
 
 ---
 
@@ -80,8 +75,6 @@
 ![Years Active](https://img.shields.io/badge/Years%20Active-3-orange?style=for-the-badge&logo=github)  
 ![Contributions](https://img.shields.io/badge/Contributions-1000%2B-success?style=for-the-badge&logo=github)  
 ![Open Source](https://img.shields.io/badge/Open%20Source%20Lover-%E2%9D%A4-red?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
-
----
 
 ---
 
@@ -107,10 +100,6 @@
 
 ---
 
----
-
----
-
 ## 📈 My GitHub Journey  
 
 [![Commits Badge](https://img.shields.io/badge/Commits-4,500%2B-brightgreen?style=for-the-badge&logo=github)](https://github.com/Admiral23kizaru)
@@ -119,6 +108,47 @@
 [![Followers](https://img.shields.io/github/followers/Admiral23kizaru?style=for-the-badge&logo=github&color=0e75b6)](https://github.com/Admiral23kizaru?tab=followers)
 
 ---
+
+## 📚 Currently Exploring  
+- Advanced Machine Learning with TensorFlow  
+- Microservices with Docker & Kubernetes  
+- Serverless apps on AWS Lambda  
+- UI/UX improvements with TailwindCSS  
+- n8n automation workflows  
+- AI automation pipelines  
+- CI/CD pipelines (GitHub Actions, GitLab CI)  
+
+---
+
+## 🏆 GitHub Trophies  
+![Trophies](https://github-profile-trophy.vercel.app/?username=Admiral23kizaru&theme=radical&no-frame=true&margin-w=15)
+
+---
+
+## 🌍 Visitor World Map  
+![Visitors](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Admiral23kizaru&theme=radical)
+
+---
+
+## 🤖 Animated Avatar / GIF  
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+
+---
+
+## ✍️ Pinned Dev Blog / Articles  
+*(Future section — auto-fetch Medium / Hashnode / Dev.to posts)*  
+
+---
+
+## 🗼 GitHub Skyline  
+Check out your 3D contribution city: [GitHub Skyline](https://skyline.github.com/Admiral23kizaru)  
+
+---
+
+## 💡 Stack Overflow / LeetCode Stats  
+*(Placeholders — can add dynamic badges once accounts are linked)*  
+![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange?style=for-the-badge&logo=stackoverflow)  
+![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=for-the-badge&logo=leetcode)  
 
 ---
 
@@ -130,4 +160,3 @@
 ---
 
 ✨ “Code is like humor. When you have to explain it, it’s bad.”  
-
