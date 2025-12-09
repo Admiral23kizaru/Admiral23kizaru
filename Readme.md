@@ -91,32 +91,28 @@ Based in the Philippines 🇵🇭, I am a passionate software engineer who loves
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Admiral23kizaru&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Admiral23kizaru's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Admiral23kizaru&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+</p>
 
-  <!-- Stats Grid -->
-  <a href="https://github.com/Admiral23kizaru">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Admiral23kizaru&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Aaron's Stats" />
-  </a>
-  <a href="https://github.com/Admiral23kizaru">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Admiral23kizaru&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-  </a>
+<br />
 
-  <br /> <br />
-
-  <!-- Contributions Snake -->
+<p align="center">
   <img src="https://raw.githubusercontent.com/Admiral23kizaru/Admiral23kizaru/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-
-</div>
+</p>
 
 ---
 
 ## 🏆 Trophies & Achievements
 
-<div align="center"> 
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Admiral23kizaru&theme=radical&no-frame=true&margin-w=10&margin-h=10" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Admiral23kizaru&theme=radical&no-frame=false&margin-w=10" alt="Trophies" />
   </a>
-</div>
+</p>
 
 <br />
 
