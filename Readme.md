@@ -89,50 +89,23 @@ Based in the Philippines 🇵🇭, I am a passionate software engineer who loves
 
 ---
 
-## 📊 GitHub Analytics
+## � Activity & Reach
+> *Replacing broken analytics with reliable live status badges.*
 
 <div align="center">
 
-<!-- Stats Card (Simplified URL) -->
-<a href="https://github.com/Admiral23kizaru">
-<img src="https://github-readme-stats.vercel.app/api?username=Admiral23kizaru&show_icons=true&theme=radical" alt="GitHub Stats" />
-</a>
+| Metric | Status |
+| :---: | :---: |
+| **Followers** | ![Followers](https://img.shields.io/github/followers/Admiral23kizaru?style=for-the-badge&color=blue&logo=github) |
+| **Profile Views** | ![Profile Views](https://komarev.com/ghpvc/?username=Admiral23kizaru&style=for-the-badge&color=brightgreen) |
+| **Total Stars** | ![Stars](https://img.shields.io/github/stars/Admiral23kizaru?style=for-the-badge&color=yellow&logo=github) |
+| **Deployments** | ![Deployments](https://img.shields.io/badge/Deployments-Active-success?style=for-the-badge&logo=vercel) |
 
-<!-- Top Languages -->
-<a href="https://github.com/Admiral23kizaru">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Admiral23kizaru&layout=compact&theme=radical" alt="Top Languages" />
-</a>
+<br/>
 
-<!-- Streak Stats (High Reliability) -->
-<a href="https://github.com/Admiral23kizaru">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Admiral23kizaru&theme=radical" alt="GitHub Streak" />
-</a>
+<!-- Reliable Contribution Snake (This works well) -->
+<img src="https://raw.githubusercontent.com/Admiral23kizaru/Admiral23kizaru/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 
-</div>
-
-<br />
-
-<div align="center">
-  <!-- Snake Animation -->
-  <img src="https://raw.githubusercontent.com/Admiral23kizaru/Admiral23kizaru/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</div>
-
----
-
-## 🏆 Trophies & Achievements
-
-<div align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Admiral23kizaru&theme=radical" alt="Trophies" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-Checking...-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Commits-4.5k+-success?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/-Open%20Source%20Love-red?style=for-the-badge&logo=heart&logoColor=white" />
 </div>
 
 ---
