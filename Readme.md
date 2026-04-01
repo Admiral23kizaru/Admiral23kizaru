@@ -104,10 +104,6 @@ Software engineer based in the Philippines with a focus on building scalable ful
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Admiral23kizaru&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-  <br/><br/>
-
   <img src="https://raw.githubusercontent.com/Admiral23kizaru/Admiral23kizaru/output/github-contribution-grid-snake.svg" alt="Contribution Graph" width="100%" />
 
 </div>
@@ -123,12 +119,29 @@ Software engineer based in the Philippines with a focus on building scalable ful
 | **Followers** | ![Followers](https://img.shields.io/github/followers/Admiral23kizaru?style=for-the-badge&color=4f9eff&logo=github) |
 | **Profile Views** | ![Profile Views](https://komarev.com/ghpvc/?username=Admiral23kizaru&style=for-the-badge&color=4f9eff) |
 | **Public Stars** | ![Stars](https://img.shields.io/github/stars/Admiral23kizaru?style=for-the-badge&color=4f9eff&logo=github) |
-| **Deployment Status** | ![Deployments](https://img.shields.io/badge/Active-4f9eff?style=for-the-badge&logo=vercel&logoColor=white) |
+
+</div>
+
+---
+
+## Let's Connect
+
+I am open to collaboration, freelance work, and meaningful engineering projects. Whether you have a problem to solve or want to build something worthwhile, feel free to reach out.
+
+<div align="center">
+
+| Channel | Link |
+| :--- | :--- |
+| **Email** | [zzephyr934@gmail.com](mailto:zzephyr934@gmail.com) |
+| **LinkedIn** | [linkedin.com/in/YOUR_LINKEDIN_HERE](https://linkedin.com/in/YOUR_LINKEDIN_HERE) |
+| **GitHub** | [github.com/Admiral23kizaru](https://github.com/Admiral23kizaru) |
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Open to collaboration on meaningful projects. Reach out via <a href="mailto:zzephyr934@gmail.com">email</a>.</sub>
+  <img src="https://komarev.com/ghpvc/?username=Admiral23kizaru&style=flat-square&color=4f9eff" alt="Profile Views" />
+  <br/><br/>
+  <sub>Designed and maintained by Aaron &nbsp;|&nbsp; Philippines &nbsp;|&nbsp; Updated 2025</sub>
 </div>
