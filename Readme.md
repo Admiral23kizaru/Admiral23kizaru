@@ -29,7 +29,8 @@ Software engineer based in the Philippines with a focus on building scalable ful
 
 - **Currently building:** Scalable full-stack web applications and cross-platform mobile solutions
 - **Exploring:** Generative AI integration, advanced DevOps with Kubernetes, and Rust
-- **Core expertise:** Workflow automation with n8n, React Native mobile engineering, and AI/LLM integration
+- **Core expertise:** Workflow automation with n8n, React Native mobile engineering, AI/LLM integration, and Prompt Engineering
+- **Prompt Engineering:** Designing and optimizing prompts for LLMs — structured reasoning chains, system instruction design, and AI behavior tuning for production applications
 - **Open to discuss:** System architecture, React ecosystem, Node.js, PHP/Laravel
 
 ---
@@ -58,13 +59,12 @@ Software engineer based in the Philippines with a focus on building scalable ful
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### AI, Automation & Data
+### AI, Automation & Prompt Engineering
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4f9eff?style=for-the-badge&logo=openai&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM%20Integration-6e40c9?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### Cloud & DevOps
 
