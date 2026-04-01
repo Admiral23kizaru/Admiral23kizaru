@@ -11,8 +11,8 @@
     <a href="mailto:zzephyr934@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="https://x.com/ZEPHYRZ161659">
+      <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
     </a>
     <a href="https://github.com/Admiral23kizaru">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -31,6 +31,7 @@ Software engineer based in the Philippines with a focus on building scalable ful
 - **Exploring:** Generative AI integration, advanced DevOps with Kubernetes, and Rust
 - **Core expertise:** Workflow automation with n8n, React Native mobile engineering, AI/LLM integration, and Prompt Engineering
 - **Prompt Engineering:** Designing and optimizing prompts for LLMs — structured reasoning chains, system instruction design, and AI behavior tuning for production applications
+- **Security:** Penetration testing and ethical hacking — identifying and exploiting system vulnerabilities using AI-assisted hacking agents, covering web, network, and application attack surfaces
 - **Open to discuss:** System architecture, React ecosystem, Node.js, PHP/Laravel
 
 ---
@@ -133,7 +134,7 @@ I am open to collaboration, freelance work, and meaningful engineering projects.
 | Channel | Link |
 | :--- | :--- |
 | **Email** | [zzephyr934@gmail.com](mailto:zzephyr934@gmail.com) |
-| **LinkedIn** | [linkedin.com/in/YOUR_LINKEDIN_HERE](https://linkedin.com/in/YOUR_LINKEDIN_HERE) |
+| **Twitter / X** | [x.com/ZEPHYRZ161659](https://x.com/ZEPHYRZ161659) |
 | **GitHub** | [github.com/Admiral23kizaru](https://github.com/Admiral23kizaru) |
 
 </div>
