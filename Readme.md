@@ -23,7 +23,7 @@
 
 ---
 
-## About
+## About me
 
 Software engineer based in the Philippines with a focus on building scalable full-stack systems, cross-platform mobile applications, and AI-driven automation pipelines. I specialize in turning complex requirements into clean, maintainable, and production-ready software.
 
