@@ -140,7 +140,7 @@ IT Graduate based in the Philippines with a working knowledge of web development
 
 ## Let's Connect
 
-I am a 4th year IT student open to collaboration, learning opportunities, and project work. If you have something worth building or want to connect, feel free to reach out.
+I am open to collaboration, learning opportunities, and project work. If you have something worth building or want to connect, feel free to reach out.
 
 <div align="center">
 
