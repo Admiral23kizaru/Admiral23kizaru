@@ -25,7 +25,7 @@
 
 ## About
 
-4th year IT student based in the Philippines with a working knowledge of web development, system programming, and cybersecurity. I build web applications and system programs, design interfaces, and have a growing interest in ethical hacking and security testing. I am still learning and sharpening my skills, but I take my work seriously and build things that function well.
+IT Graduate based in the Philippines with a working knowledge of web development, system programming, and cybersecurity. I build web applications and system programs, design interfaces, and have a growing interest in ethical hacking and security testing. I am still learning and sharpening my skills, but I take my work seriously and build things that function well.
 
 - **Web & System Development:** Building web applications and system programs using frameworks I have worked with throughout my studies
 - **Security:** Learning penetration testing and ethical hacking — exploring how vulnerabilities are identified and tested across web applications and networks using tools and AI-assisted agents
