@@ -3,7 +3,7 @@
   <img src="https://github.com/Admiral23kizaru.png" width="130" style="border-radius: 50%; border: 3px solid #4f9eff;" />
 
   ## Aaron
-  ### 4th Year IT Student — Web Development · Security · UI/UX Design
+  ### Web Development · Security · UI/UX Design
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=4F9EFF&center=true&vCenter=true&width=560&lines=4th+Year+IT+Student;Web+%26+System+Developer;Security+Enthusiast;UI%2FUX+Designer;AI+%26+Automation+Explorer)](https://git.io/typing-svg)
 
